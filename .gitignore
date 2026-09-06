@@ -1,0 +1,27 @@
+# Sensitive config/DB files
+config.php
+db.php
+config/db.php
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependencies
+vendor/
+node_modules/
+
+# Uploads (if it contains user data)
+uploads/
+
+# Cache
+cache/
+caches/
